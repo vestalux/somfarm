@@ -1,4 +1,13 @@
 ---
 label: youtube
 hide_body: true
-fields: []
+fields:
+- name: youtube_embed
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: youtube embed
