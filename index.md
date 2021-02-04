@@ -14,8 +14,8 @@ page_sections:
   - link: "/"
     link_text: Rólunk
   cta:
-    url: ''
-    button_text: ''
+    url: kapcsolat
+    button_text: Kapcsolat
 - template: hero-banner-w-image
   block: hero-2
   slug: features
