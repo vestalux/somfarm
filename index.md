@@ -30,6 +30,15 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   slug: tereprendezes
   headline: "<strong>Tereprendezés</strong>"
@@ -71,14 +80,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
