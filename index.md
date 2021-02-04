@@ -39,10 +39,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: tereprendezes
-  headline: <strong>Tereprendezés<span class="light"> </span></strong><span class="light">the
-    Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Tereprendezés</strong>"
+  content: Egy udvar vagy kert rendbetétele könnyűnek tűnhet, de jobban jár ha profikra
+    bízza. A gépi földmunkával gyorsabban és szebb eredményt lehet elérni.
   media:
     image: "/uploads/2021/02/04/tereprendezes.PNG"
     alt_text: tereprendezés
