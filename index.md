@@ -51,15 +51,10 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
+  content: '&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0"
+    title="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0">https://www.youtube.com/embed/KZWCjDuroeQ?controls=0</a>"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;'
 - template: detail-content
   block: text-1
   headline: Kapcsolat
