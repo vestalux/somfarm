@@ -58,8 +58,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Kapcsolat
-  content: "<p>Árajánlatért vagy kérdésével forduljon hozzánk</p><ul><li><p>Som Farm
-    Szociális Szövetkezet</p></li><li><p>+36 30 316 8834</p></li><li><p>info@profifoldmunka.eu</p></li></ul>"
+  content: "<p>Som Farm Szociális Szövetkezet</p><p>+36 30 316 8834</p><p>info@profifoldmunka.eu</p>"
 - template: simple-footer
   block: footer-1
   content: Az oldal elkészítése közben  ❤︎ egy kecske sem sérült meg
