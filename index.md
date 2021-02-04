@@ -31,8 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  slug: ''
+  headline: Szolgáltatások
+  slug: szolgaltatasok
   content: ''
   media:
     image: ''
