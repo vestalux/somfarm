@@ -32,9 +32,9 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 1-column-text
   block: one-column-1
-  headline: Szolgáltatások
-  slug: ''
-  content: ''
+  headline: ''
+  slug: szolgaltatasok
+  content: "<strong>Szolgáltatások</strong>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
