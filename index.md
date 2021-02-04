@@ -28,18 +28,6 @@ page_sections:
     image: "/uploads/2021/02/04/venieri.png"
     alt_text: Földmunka
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>Szolgáltatások</strong>"
-  background_image: ''
-  image:
-    image: ''
-    alt_text: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -53,11 +41,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: szolgaltatasok
+  headline: "<strong>Szolgáltatások</strong>"
+  content: ''
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
@@ -85,5 +71,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
