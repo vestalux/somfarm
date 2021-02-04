@@ -25,7 +25,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Árajánlat
   image:
     image: "/uploads/2021/02/04/venieri.png"
     alt_text: Földmunka
