@@ -51,7 +51,7 @@ page_sections:
   block: one-column-1
   slug: Video
   headline: ''
-  content: "<iframe width="560" height="315" src="https://www.youtube.com/embed/KZWCjDuroeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+  content: <iframe width="560" height="315" src="https://www.youtube.com/embed/KZWCjDuroeQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - template: detail-content
   block: text-1
   headline: Kapcsolat
