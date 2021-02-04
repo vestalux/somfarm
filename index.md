@@ -49,8 +49,8 @@ page_sections:
     alt_text: tereprendezés
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
+  slug: Video
+  headline: ''
   content: <p>&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0"
     title="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0" target="_blank">https://www.youtube.com/embed/KZWCjDuroeQ?controls=0</a>"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
