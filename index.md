@@ -47,15 +47,6 @@ page_sections:
   media:
     image: "/uploads/2021/02/04/tereprendezes.PNG"
     alt_text: tereprendezés
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: szolgaltatasok
-  headline: "<strong>Szolgáltatások</strong>"
-  content: ''
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: responsive
@@ -71,12 +62,9 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+  headline: Kapcsolat
+  content: "<p>Árajánlatért vagy kérdésével forduljon hozzánk</p><ul><li><p>Som Farm
+    Szociális Szövetkezet</p></li><li><p>+36 30 316 8834</p></li><li><p>info@profifoldmunka.eu</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
