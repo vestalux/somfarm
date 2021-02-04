@@ -7,9 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/04/logojo-01.png"
   navigation:
-  - link: "/"
-    link_text: Kapcsolat
-  - link: "/"
+  - link: "#szolgaltatasok"
     link_text: Szolgáltatások
   - link: "/"
     link_text: Rólunk
