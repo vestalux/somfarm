@@ -62,6 +62,6 @@ page_sections:
     Szociális Szövetkezet</p></li><li><p>+36 30 316 8834</p></li><li><p>info@profifoldmunka.eu</p></li></ul>"
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Az oldal elkészítése közben  ❤︎ egy kecske sem sérült meg
 
 ---
