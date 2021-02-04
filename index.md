@@ -30,6 +30,11 @@ page_sections:
     image: "/uploads/2021/02/04/venieri.png"
     alt_text: Földmunka
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Szolgáltatások
+  slug: ''
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
