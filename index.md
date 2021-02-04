@@ -51,10 +51,10 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: 16 Fully Responsive Design Blocks
-  content: '&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0"
-    title="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0">https://www.youtube.com/embed/KZWCjDuroeQ?controls=0</a>"
+  content: <p>&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0"
+    title="https://www.youtube.com/embed/KZWCjDuroeQ?controls=0" target="_blank">https://www.youtube.com/embed/KZWCjDuroeQ?controls=0</a>"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;'
+    gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</p>
 - template: detail-content
   block: text-1
   headline: Kapcsolat
