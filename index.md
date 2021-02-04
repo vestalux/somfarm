@@ -28,11 +28,18 @@ page_sections:
     image: "/uploads/2021/02/04/venieri.png"
     alt_text: Földmunka
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  slug: szolgaltatasok
-  content: "<strong>Szolgáltatások</strong>"
+- template: hero-banner-w-image
+  block: hero-2
+  headline: "<strong>Szolgáltatások</strong>"
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
