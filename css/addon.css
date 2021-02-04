@@ -365,7 +365,7 @@ input.inverted::placeholder {
 @media screen and (min-width:400px) {
   .block-hero-2 .column.text {
     -ms-flex: 0 0 45%;
-    flex: 0 0 45%;
+    flex: 0 0 20%;
     text-align: left
   }
 
