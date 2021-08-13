@@ -162,14 +162,26 @@ page_sections:
       természetes módon.</p>"
     headline: ''
     slug: ''
-- template: 4-column-footer
-  block: footer-2
-  col_2: <img src="/uploads/2021/02/03/logo2.png">
-  col_3: <img src="/uploads/2021/08/13/som-logo-bw.png">
-  col_4: Som Farm Szociális Szövetkezet<br>+36 30 316 8834<br>info@profifoldmunka.eu
-  image: ''
 - template: simple-footer
   block: footer-1
   content: Az oldal elkészítése közben ❤︎ egy kecske sem sérült meg<br>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/08/13/93320673_2863329537038241_1670761382158532608_n.jpg"
+  headline: Kapcsolat
+  content: Keressen fel minket személyreszabott árajánlatért
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  content: "<h3>Som Farm Szociális Szövetkezet</h3><p>7400 Kaposvár Som hegy 7.</p><p>+36
+    30 316 8834<br>info@profifoldmunka.eu<br></p>"
+  headline: ''
+  slug: ''
 
 ---
