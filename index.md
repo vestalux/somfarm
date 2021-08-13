@@ -162,14 +162,12 @@ page_sections:
       természetes módon.</p>"
     headline: ''
     slug: ''
-- template: simple-footer
-  block: footer-1
-  content: Az oldal elkészítése közben ❤︎ egy kecske sem sérült meg<br>
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/93320673_2863329537038241_1670761382158532608_n.jpg"
   headline: Kapcsolat
-  content: Keressen fel minket személyreszabott árajánlatért
+  content: Keressen fel minket személyreszabott árajánlatért<br><br><strong>Som Farm
+    Szociális Szövetkezet<br></strong>7400 Kaposvár Som hegy 7.<br>+36 30 316 8834<br>info@profifoldmunka.eu
   image:
     image: ''
     alt_text: ''
@@ -179,9 +177,18 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  content: "<h3>Som Farm Szociális Szövetkezet</h3><p>7400 Kaposvár Som hegy 7.</p><p>+36
-    30 316 8834<br>info@profifoldmunka.eu<br></p>"
+  content: "<h2>Som Farm Szociális Szövetkezet</h2><h3>7400 Kaposvár Som hegy 7.</h3><h3>+36
+    30 316 8834<br>info@profifoldmunka.eu<br></h3>"
   headline: ''
   slug: ''
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/08/13/som-logo-transparentpng-01.png"
+  col_2: <img src="/uploads/2021/08/13/som-logo-transparentpng.png">
+  col_3: ''
+  col_4: ''
+- template: simple-footer
+  block: footer-1
+  content: Az oldal elkészítése közben ❤︎ egy kecske sem sérült meg<br>
 
 ---
