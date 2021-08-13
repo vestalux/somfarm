@@ -47,10 +47,19 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Az oldal elkészítése közben ❤︎ egy kecske sem sérült meg<br>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/08/13/terulet.jpg"
-  slug: Gépi földmunka
-  caption: ''
+- template: detail-content
+  block: text-1
+  headline: Szolgáltatások
+  content: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Gépi földmunka
+    slug: ''
+    content: ''
+  col_2:
+    headline: Fuvarozás
+    slug: ''
+    content: ''
 
 ---
