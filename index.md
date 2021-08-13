@@ -185,7 +185,7 @@ page_sections:
   block: footer-2
   col_2: <img src="/uploads/2021/08/13/som-logo-transparentpng.png">
   col_3: <img src="/uploads/2021/08/13/som-logo-transparentpng-01.png">
-  image: ''
+  image: "/uploads/2021/08/13/2.png"
   col_4: ''
 - template: simple-footer
   block: footer-1
