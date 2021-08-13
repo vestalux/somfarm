@@ -103,6 +103,26 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: "<h2>Sittszállítás</h2><p>A bontásból keletkezett sittet, földet, követ
+      vagy más inert anyagot elszállítjuk és gondoskodunk a meglelő lerakásáról.</p>"
+    headline: ''
+    slug: ''
+  col_2:
+    content: "<h2>Építőanyag szállítás</h2><p>Billenőplatós autóval szállítunk építőanyagokat
+      is, legyen szó szóróda anyagokról, mint homok, sóder, murva vagy akár faáru,
+      tégla vagy egyéb építőipari áruk.</p>"
+    headline: ''
+    slug: ''
+  col_3:
+    content: "<h2>Zöldhulladék szállítás</h2><p>Könnyen előfordul hogy egy fa kivágása
+      vagy alaposabb tereprendezés során annyi zöldhulladék keletkezik, amit a lakossági
+      hulladékgazdálkodás már nem vesz át. Mi elszállítjuk és megfelelően elhelyezzük
+      a keletkezett zöldhulladékot.</p>"
+    headline: ''
+    slug: ''
 - template: detail-content
   block: text-1
   headline: ''
