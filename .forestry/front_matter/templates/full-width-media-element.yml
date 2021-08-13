@@ -16,5 +16,3 @@ fields:
 - type: text
   name: caption
   label: Caption
-pages:
-- palyazat.md
