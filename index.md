@@ -140,9 +140,9 @@ page_sections:
     image: ''
     alt_text: ''
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#kapcsolat"
+    button_text: Személyreszabott árajánlat
 - template: 3-column-text
   block: three-column-1
   col_1:
