@@ -47,8 +47,8 @@ page_sections:
     tudjuk elvégezni a földmunkákat mint ami kézi erővel lehetséges lenne. '
   cta:
     enabled: true
-    url: Kérjen ajánlatot
-    button_text: ''
+    url: ''
+    button_text: Kérjen ajánlatot
 - template: 3-column-text
   block: three-column-1
   col_1:
