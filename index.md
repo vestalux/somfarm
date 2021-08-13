@@ -127,6 +127,39 @@ page_sections:
   block: text-1
   headline: ''
   content: ''
+- template: hero-banner-w-image
+  block: hero-2
+  headline: Mezőgazdasági munkák
+  content: Egész évben vannak olyan feladatok a mezőgazdaságban amiket megfelelő időben
+    kell elvégezni különben a termés látja kárát. Akár zártkertekben is érdemes lehet
+    a gépi munkavégzés, hogy a lehető legjobb termést hozza a föld.
+  background_image: "/uploads/2021/08/13/brad-halcrow-xerfvnbe5xk-unsplash.jpg"
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: "<h2>Mezőgazdasági földmunkák</h2><p>Legyen szó szántásról szártépőzésről
+      vagy egyéb munkákról, gépparkunkkal sokoldalú megoldást tudunk nyújtani.</p>"
+    headline: ''
+    slug: ''
+  col_2:
+    content: "<h2>Kaszálás</h2><p>Gépparkunkban megtalálható alternáló és rézsűkaszákkal
+      olyan összefüggő területeken is tudunk kaszálni ami más gépekkel lehetetlen.
+      Árokpartok, domboldalak, rétek kaszálását is el tudjuk végezni.</p>"
+    headline: ''
+    slug: ''
+  col_3:
+    content: "<h2>Kecske bérlés</h2><p>A zöldterületek karbantartásának legkörnyezetkímélőbb
+      módja. Kecskék alkalmazásával a tulburjánzott területek rekultiválhatók teljesen
+      természetes módon.</p>"
+    headline: ''
+    slug: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <img src="/uploads/2021/02/03/logo2.png">
