@@ -135,7 +135,7 @@ page_sections:
   content: Egész évben vannak olyan feladatok a mezőgazdaságban amiket megfelelő időben
     kell elvégezni különben a termés látja kárát. Akár zártkertekben is érdemes lehet
     a gépi munkavégzés, hogy a lehető legjobb termést hozza a föld.
-  background_image: "/uploads/2021/08/13/46922964_357535995006027_848284838715719680_n.jpg"
+  background_image: "/uploads/2021/08/13/kecske.jpg"
   image:
     image: ''
     alt_text: ''
