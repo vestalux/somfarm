@@ -40,7 +40,7 @@ page_sections:
     céges vagy lakossági ügyfelekről, a profi munkánkra biztosan számíthat.</p>"
 - template: hero-banner-w-image
   block: hero-2
-  headline: Gépi földmunkák <a name="gepi-foldmunka"></a>
+  headline: <a name="gepi-foldmunka"></a>Gépi földmunkák
   background_image: "/uploads/2021/08/13/terulet.jpg"
   image:
     image: ''
@@ -93,7 +93,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/multicar.jpg"
-  headline: Fuvarozás <a name="fuvarozas"></a>
+  headline: <a name="fuvarozas"></a>Fuvarozás
   image:
     image: ''
     alt_text: ''
@@ -131,7 +131,7 @@ page_sections:
   content: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: Mezőgazdasági munkák <a rel="mezogazdasagi-munkak"></a>
+  headline: <a name="mezogazdasagi-munkak"></a> Mezőgazdasági munkák
   content: Egész évben vannak olyan feladatok a mezőgazdaságban amiket megfelelő időben
     kell elvégezni különben a termés látja kárát. Akár zártkertekben is érdemes lehet
     a gépi munkavégzés, hogy a lehető legjobb termést hozza a föld.
@@ -165,7 +165,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/93320673_2863329537038241_1670761382158532608_n.jpg"
-  headline: Kapcsolat <a name="kapcsolat"></a>
+  headline: <a name="kapcsolat"></a> Kapcsolat 
   content: Keressen fel minket személyreszabott árajánlatért<br><br><strong>Som Farm
     Szociális Szövetkezet<br></strong>7400 Kaposvár Som hegy 7.<br>+36 30 316 8834<br>info@profifoldmunka.eu
   image:
