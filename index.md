@@ -102,9 +102,9 @@ page_sections:
     a helyszínre tudjuk fuvarozni a szükséges szóródó alapanyagokat, mint murva, homok,
     sóder vagy akár termőföld. '
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#kapcsolat"
+    button_text: Egyedi árajánlat
 - template: 3-column-text
   block: three-column-1
   col_1:
