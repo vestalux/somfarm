@@ -69,6 +69,25 @@ page_sections:
       és pontosan lehet ezzel a munkával haladni.</p>"
     headline: ''
     slug: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: "<h2>Medenceásás</h2><p>Akinek elférne egy medence a kertjében gyakran
+      elgondolkodhat rajta milyen jó lenne ott pancsolni nyáron. A gépeinkkel akár
+      egy nap alatt előkészítjük a helyét egy átlagos medencének.</p>"
+    headline: ''
+    slug: ''
+  col_2:
+    content: "<h2>Tuskó ásás</h2><p>Bízza ránk azokat a makacs tuskókat amik az útjában
+      állnak a tökéletes kert létrehozásában.</p>"
+    headline: ''
+    slug: ''
+  col_3:
+    content: "<h2>Bontás</h2><p>Vállaljuk épületek bontását valamint a keletkező sitt
+      elszállítását. Speciális céleszközökkel épületeket, betonozott udvarokat is
+      tudunk bontani.</p>"
+    headline: ''
+    slug: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/multicar.jpg"
