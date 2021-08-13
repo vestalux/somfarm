@@ -7,14 +7,14 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/04/logojo-01.png"
   navigation:
-  - link: ''
+  - link: "#gepi-foldmunka"
     link_text: Gépi Földmunka
-  - link: ''
+  - link: "#fuvarozas"
     link_text: Fuvarozás
-  - link: ''
+  - link: "#mezogazdasagi-munkak"
     link_text: Mezőgazdasági munkák
   cta:
-    url: kapcsolat
+    url: "#kapcsolat"
     button_text: Kapcsolat
 - template: hero-banner-w-image
   block: hero-2
@@ -49,7 +49,7 @@ page_sections:
     tudjuk elvégezni a földmunkákat mint ami kézi erővel lehetséges lenne. '
   cta:
     enabled: true
-    url: ''
+    url: "#kapcsolat"
     button_text: Kérjen ajánlatot
 - template: 3-column-text
   block: three-column-1
@@ -102,9 +102,9 @@ page_sections:
     a helyszínre tudjuk fuvarozni a szükséges szóródó alapanyagokat, mint murva, homok,
     sóder vagy akár termőföld. '
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#kapcsolat"
+    button_text: Egyedi árajánlat
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -135,14 +135,14 @@ page_sections:
   content: Egész évben vannak olyan feladatok a mezőgazdaságban amiket megfelelő időben
     kell elvégezni különben a termés látja kárát. Akár zártkertekben is érdemes lehet
     a gépi munkavégzés, hogy a lehető legjobb termést hozza a föld.
-  background_image: "/uploads/2021/08/13/46922964_357535995006027_848284838715719680_n.jpg"
+  background_image: "/uploads/2021/08/13/kecske.jpg"
   image:
     image: ''
     alt_text: ''
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#kapcsolat"
+    button_text: Személyreszabott árajánlat
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -165,7 +165,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/93320673_2863329537038241_1670761382158532608_n.jpg"
-  headline: <a name="kapcsolat"></a> Kapcsolat 
+  headline: <a name="kapcsolat"></a> Kapcsolat
   content: Keressen fel minket személyreszabott árajánlatért<br><br><strong>Som Farm
     Szociális Szövetkezet<br></strong>7400 Kaposvár Som hegy 7.<br>+36 30 316 8834<br>info@profifoldmunka.eu
   image:
