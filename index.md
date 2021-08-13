@@ -46,8 +46,8 @@ page_sections:
   content: 'Az ásó és a lapát ideje lejárt. Munkagépeinkkel sokkal gyorsabban és pontosabban
     tudjuk elvégezni a földmunkákat mint ami kézi erővel lehetséges lenne. '
   cta:
-    enabled: false
-    url: ''
+    enabled: true
+    url: Kérjen ajánlatot
     button_text: ''
 - template: 3-column-text
   block: three-column-1
