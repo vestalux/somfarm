@@ -3,25 +3,15 @@ layout: blocks
 title: Palyazat
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: "<h2>Mezőgazdasági földmunkák</h2><p>Legyen szó szántásról szártépőzésről
-      vagy egyéb munkákról, gépparkunkkal sokoldalú megoldást tudunk nyújtani.</p>"
-    headline: ''
-    slug: ''
-  col_2:
-    content: "<h2>Kaszálás</h2><p>Gépparkunkban megtalálható alternáló és rézsűkaszákkal
-      olyan összefüggő területeken is tudunk kaszálni ami más gépekkel lehetetlen.
-      Árokpartok, domboldalak, rétek kaszálását is el tudjuk végezni.</p>"
-    headline: ''
-    slug: ''
-  col_3:
-    content: "<h2>Kecske bérlés</h2><p>A zöldterületek karbantartásának legkörnyezetkímélőbb
-      módja. Kecskék alkalmazásával a tulburjánzott területek rekultiválhatók teljesen
-      természetes módon.</p>"
-    headline: ''
-    slug: ''
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2021/02/04/logojo-01.png"
+  navigation:
+  - link: profifoldmunka.eu
+    link_text: kezdolap
+  cta:
+    url: ''
+    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/13/ginop.PNG"
