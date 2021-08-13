@@ -49,10 +49,26 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: detail-content
-  block: text-1
-  headline: Kapcsolat
-  content: "<p>Som Farm Szociális Szövetkezet</p><p>+36 30 316 8834</p><p>info@profifoldmunka.eu</p>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: "<h2>Tereprendezés</h2><p>Minden építkezés kiindulópontja a sima rendezett
+      terület, így lehet könnyen dolgozni. Munkálatok után is fontos szerep jut a
+      tereprendezésnek, a megbolygatott terület helyreállítása ugyanolyan fontos feladat.</p>"
+    headline: ''
+    slug: ''
+  col_2:
+    content: "<h2>Árokásás</h2><p>Legyen szó közművek elhelyezéséről esővíz elvezetők
+      vagy szikkasztók ásásáról az árok egy megkerülhetetlen fogalom. Gépparkunknak
+      köszönhetően a köves vagy gyökerekkel átszőtt talaj sem jelent problémát.</p>"
+    headline: ''
+    slug: ''
+  col_3:
+    content: "<h2>Alapásás</h2><p>Az építkezések legnagyobb odafigyelést igénylő feladata,
+      az épület alapjának kialakítása. Gépi erővel és szakértő gépkezelőkkel gyorsan
+      és pontosan lehet ezzel a munkával haladni.</p>"
+    headline: ''
+    slug: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/08/13/multicar.jpg"
@@ -68,6 +84,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <img src="/uploads/2021/02/03/logo2.png">
