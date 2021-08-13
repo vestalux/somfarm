@@ -7,10 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/04/logojo-01.png"
   navigation:
-  - link: "#szolgaltatasok"
-    link_text: Szolgáltatások
-  - link: "/"
-    link_text: Rólunk
+  - link: ''
+    link_text: Gépi Földmunka
+  - link: ''
+    link_text: Fuvarozás
+  - link: ''
+    link_text: Mezőgazdasági munkák
   cta:
     url: kapcsolat
     button_text: Kapcsolat
