@@ -7,11 +7,11 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/04/logojo-01.png"
   navigation:
-  - link: profifoldmunka.eu
-    link_text: kezdolap
+  - link: https://profifoldmunka.eu
+    link_text: Kezdőlap
   cta:
-    url: ''
-    button_text: ''
+    url: https://profifoldmunka.eu#kapcsolat
+    button_text: Kapcsolat
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/08/13/ginop.PNG"
