@@ -31,7 +31,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Szolgáltatások
+  headline: Profi<br><strong>Földmunka</strong>
   slug: szolgaltatasok
   content: ''
   media:
