@@ -28,39 +28,6 @@ page_sections:
     image: "/uploads/2021/02/04/venieri.png"
     alt_text: Földmunka
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Profi<br><strong>Földmunka</strong>
-  slug: szolgaltatasok
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: tereprendezes
-  headline: "<strong>Tereprendezés</strong>"
-  content: Egy udvar vagy kert rendbetétele könnyűnek tűnhet, de jobban jár ha profikra
-    bízza. A gépi földmunkával gyorsabban és szebb eredményt lehet elérni.
-  media:
-    image: "/uploads/2021/02/04/tereprendezes.PNG"
-    alt_text: tereprendezés
-- template: 1-column-text
-  block: one-column-1
-  slug: Video
-  headline: ''
-  content: <iframe width="560" height="315" src="https://www.youtube.com/embed/KZWCjDuroeQ"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture" allowfullscreen></iframe>
-- template: detail-content
-  block: text-1
-  headline: Kapcsolat
-  content: "<p>Som Farm Szociális Szövetkezet</p><p>+36 30 316 8834</p><p>info@profifoldmunka.eu</p>"
-- template: simple-footer
-  block: footer-1
-  content: Az oldal elkészítése közben  ❤︎ egy kecske sem sérült meg
 - template: hero-banner-w-image
   block: hero-2
   headline: Szolgáltatások
@@ -73,5 +40,17 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: detail-content
+  block: text-1
+  headline: Kapcsolat
+  content: "<p>Som Farm Szociális Szövetkezet</p><p>+36 30 316 8834</p><p>info@profifoldmunka.eu</p>"
+- template: simple-footer
+  block: footer-1
+  content: Az oldal elkészítése közben ❤︎ egy kecske sem sérült meg<br>
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/08/13/terulet.jpg"
+  slug: Gépi földmunka
+  caption: ''
 
 ---
