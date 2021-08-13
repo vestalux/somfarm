@@ -3,8 +3,8 @@ title: Profi Földmunka
 author: Peti
 email: info@profifoldmunka.hu
 description: Profi Földmunka
-baseurl: "/somfarm"
-url: https://vestalux.github.io
+baseurl: ""
+url: https://profifoldmunka.eu
 defaults:
 - scope:
     path: ''
