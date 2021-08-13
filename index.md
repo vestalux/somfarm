@@ -60,7 +60,10 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: 'A földmunkának csak egy része az ásás, de mi lesz a földdel azután? A
+    kitermelt földet, törmeléket  billenőplatós autóval elszállítjuk, ha szükséges
+    a helyszínre tudjuk fuvarozni a szükséges szóródó alapanyagokat, mint murva, homok,
+    sóder vagy akár termőföld. '
   cta:
     enabled: false
     url: ''
