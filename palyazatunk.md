@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Pályázatunk
-date: 2021-12-21 23:00:00 +0000
+date: 2021-12-20 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
