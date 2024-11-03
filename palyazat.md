@@ -19,9 +19,7 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: "<p><br><br><br><br>
-  <img src="/images/hitel.png">
-  kedvezményezett neve: Som Farm Gyártó, Kereskedelmi és Szolgáltató
+  content: "<p>kedvezményezett neve: Som Farm Gyártó, Kereskedelmi és Szolgáltató
     Szociális Szövetkezet</p><p>projekt címe: Gépesítés a SOM Farm Szociális Szövetkezetnél</p><p>a
     szerződött támogatás összege: 21 302 608 Ft</p><p>a támogatás mértéke (%-ban):
     95,2%ú</p><p>projekt tartalmának bemutatása: </p><p>A pályázatban az építőipari
