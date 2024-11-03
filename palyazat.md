@@ -30,9 +30,8 @@ page_sections:
     és megváltozott munkaképességű  helyi lakost vontunk be, részükre betanító és
     munakerőpiaci képzést, valamint mentori támogatást  nyújtottunk. A megvalósítás
     helyszíne   Kaposvár, Som hegy 7. sz alatti telepehelyünk, ahol a dolgozók részére
-    szociális blokkot és géptároló, műhelyt építettünk.  </p><p>projekt tervezett  
-    befejezési dátuma:  2021.07.31.</p><p>projekt azonosító száma: GINOP-5.1.7-17-2019-00289
-<br><img src="/images/hitel.png"></img  </p>"
+    szociális blokkot és géptároló, műhelyt építettünk.  </p><p>projekt tervezett
+    befejezési dátuma:  2021.07.31.</p><p>projekt azonosító száma: GINOP-5.1.7-17-2019-00289</p>"
   headline: ''
   slug: ''
 - template: 4-column-footer
