@@ -17,6 +17,11 @@ page_sections:
   image: "/uploads/2021/08/13/ginop.PNG"
   slug: ''
   caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/images/hitel.png"
+  slug: ''
+  caption: ''
 - template: 1-column-text
   block: one-column-1
   content: "<p>kedvezményezett neve: Som Farm Gyártó, Kereskedelmi és Szolgáltató
