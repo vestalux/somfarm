@@ -9,6 +9,14 @@ page_sections:
   navigation:
   - link: https://profifoldmunka.eu
     link_text: Kezdőlap
+  - link: "https://profifoldmunka.eu#gepi-foldmunka"
+    link_text: Gépi Földmunka
+  - link: "https://profifoldmunka.eu#fuvarozas"
+    link_text: Fuvarozás
+  - link: "https://profifoldmunka.eu#mezogazdasagi-munkak"
+    link_text: Mezőgazdasági munkák
+  - link: "/palyazat"
+    link_text: Pályázatunk
   cta:
     url: https://profifoldmunka.eu#kapcsolat
     button_text: Kapcsolat
