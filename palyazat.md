@@ -14,12 +14,12 @@ page_sections:
     button_text: Kapcsolat
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/08/13/ginop.PNG"
+  image: "/images/hitel.png"
   slug: ''
   caption: ''
 - template: full-width-media-element
   block: media-1
-  image: "/images/hitel.png"
+  image: "/uploads/2021/08/13/ginop.PNG"
   slug: ''
   caption: ''
 - template: 1-column-text
