@@ -13,6 +13,8 @@ page_sections:
     link_text: Fuvarozás
   - link: "#mezogazdasagi-munkak"
     link_text: Mezőgazdasági munkák
+  - link: "/palyazat"
+    link_text: Pályázatunk
   cta:
     url: "#kapcsolat"
     button_text: Kapcsolat
